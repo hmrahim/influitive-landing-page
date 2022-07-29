@@ -19,8 +19,8 @@ const Landing = () => {
             roactively coordinate quality quality vectors vis-avis supply
             chains. Quickly engage client-centric web services.
           </p>
-          <button className="btn btn-primary">Get Started</button>
-          <button className="btn btn-primary">Get Started</button>
+          <button className="btn btn-primary mr-3">Request Demo</button>
+          <button className="btn btn-ghost border-primary">Contact Us</button>
         </div>
       </div>
     </div>
