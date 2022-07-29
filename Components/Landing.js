@@ -20,6 +20,7 @@ const Landing = () => {
             chains. Quickly engage client-centric web services.
           </p>
           <button className="btn btn-primary">Get Started</button>
+          <button className="btn btn-primary">Get Started</button>
         </div>
       </div>
     </div>
