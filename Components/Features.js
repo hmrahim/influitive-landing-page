@@ -16,7 +16,7 @@ const Features = () => {
           expertise competitive than open-source imperatives disseminate
         </p>
       </div>
-      <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-3 mt-24 gap-28">
+      <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-3 mt-32 gap-28">
         <FeaturesCard
           logo="/images/relaibility.svg"
           title="Reliability"

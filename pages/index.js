@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import Features from '../Components/Features'
+import Integration from '../Components/Integration'
 import Landing from '../Components/Landing'
 import Navbar from '../Components/Navbar'
 import styles from '../styles/Home.module.css'
@@ -18,6 +19,7 @@ export default function Home() {
       <Navbar/>
       <Landing/>
       <Features/>
+      <Integration/>
     </main>
 
     
