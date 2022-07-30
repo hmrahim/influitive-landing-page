@@ -3,7 +3,7 @@ import Image from "next/image";
 
 const FeaturesCard = ({logo,title,desc}) => {
   return (
-    <div className="flex flex-col justify-center items-center ">
+    <div className="flex flex-col justify-center items-center border-primary">
       <div className="">
         <Image src={logo} width={50} height={50}></Image>
       </div>

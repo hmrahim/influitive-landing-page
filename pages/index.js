@@ -2,6 +2,7 @@ import Head from 'next/head'
 import Image from 'next/image'
 import Business from '../Components/Business'
 import Features from '../Components/Features'
+import InstentSetup from '../Components/instentSetup'
 import Integration from '../Components/Integration'
 import Landing from '../Components/Landing'
 import Navbar from '../Components/Navbar'
@@ -22,6 +23,7 @@ export default function Home() {
       <Features/>
       <Integration/>
       <Business/>
+     <InstentSetup/>
     </main>
 
     
