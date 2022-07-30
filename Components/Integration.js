@@ -6,14 +6,15 @@ const Integration = () => {
   return (
     <div className="flex flex-col md:flex-row lg:flex-row w-ful md:w-11/12 lg:w-11/12 mx-auto gap-24 mt-40 ">
       <div className="flex-1 flex flex-col gap-14 justify-center items-center">
-        <h4 className="text-xl font-bold text-justify">
-          Best options to choose a Influitive, to make your own app and grow
-          your business
+        <h4 className="text-xl font-bold text-justify text-accent">
+        We deliver best quality app for 
+
+your business
         </h4>
         <Image src="/images/mobile_2.svg" height={400} width={600}></Image>
       </div>
       <div className="flex-1">
-        <h1 className="text-4xl text-justify text-accent font-bold">
+        <h1 className="text-4xl  text-accent font-bold">
           Experience your Product with Integration
         </h1>
         <p className="text-neutral text-left mt-6">

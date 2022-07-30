@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import Image from 'next/image'
+import Business from '../Components/Business'
 import Features from '../Components/Features'
 import Integration from '../Components/Integration'
 import Landing from '../Components/Landing'
@@ -20,6 +21,7 @@ export default function Home() {
       <Landing/>
       <Features/>
       <Integration/>
+      <Business/>
     </main>
 
     
