@@ -38,58 +38,58 @@ const Contact = () => {
       </div>
       <div style={{marginBottom:"-80px"}}  className="z-10 bg-base-100 rounded-xl">
         <h1 className="text-2xl font-bold text-accent">
-          Fill out the form and we'll be in touch as soon as possible.
+          Fill out the form and we ll be in touch as soon as possible.
         </h1>
         <form
           action=""
           className="p-5"
         >
              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 mt-10 gap-5">
-          <div class="form-control w-full ">
-            <label class="label">
-              <span class="label-text">What is your name?</span>
+          <div className="form-control w-full ">
+            <label className="label">
+              <span className="label-text">What is your name?</span>
             </label>
             <input
               type="text"
               placeholder="Type here"
-              class="input input-bordered w-full "
+              className="input input-bordered w-full "
             />
           </div>
-          <div class="form-control w-full ">
-            <label class="label">
-              <span class="label-text">Email</span>
+          <div className="form-control w-full ">
+            <label className="label">
+              <span className="label-text">Email</span>
             </label>
             <input
               type="text"
               placeholder="Type here"
-              class="input input-bordered w-full "
+              className="input input-bordered w-full "
             />
           </div>
-          <div class="form-control w-full ">
-            <label class="label">
-              <span class="label-text">Company website</span>
+          <div className="form-control w-full ">
+            <label className="label">
+              <span className="label-text">Company website</span>
             </label>
             <input
               type="text"
               placeholder="Type here"
-              class="input input-bordered w-full "
+              className="input input-bordered w-full "
             />
           </div>
-          <div class="form-control w-full ">
-            <label class="label">
-              <span class="label-text">Work Email</span>
+          <div className="form-control w-full ">
+            <label className="label">
+              <span className="label-text">Work Email</span>
             </label>
             <input
               type="text"
               placeholder="Type here"
-              class="input input-bordered w-full "
+              className="input input-bordered w-full "
             />
           </div>
-          <div class="form-control w-full ">
-            <label class="label">
-              <span class="label-text">Budget</span>
+          <div className="form-control w-full ">
+            <label className="label">
+              <span className="label-text">Budget</span>
             </label>
-            <select class="select select-bordered w-full ">
+            <select className="select select-bordered w-full ">
               <option disabled selected>
                 Select one?
               </option>
@@ -97,11 +97,11 @@ const Contact = () => {
               <option>Greedo</option>
             </select>
           </div>
-          <div class="form-control w-full ">
-            <label class="label">
-              <span class="label-text">Country</span>
+          <div className="form-control w-full ">
+            <label className="label">
+              <span className="label-text">Country</span>
             </label>
-            <select class="select select-bordered w-full ">
+            <select className="select select-bordered w-full ">
               <option disabled selected>
                 Select one?
               </option>

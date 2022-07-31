@@ -6,10 +6,12 @@ import Business from '../Components/Business'
 import Contact from '../Components/Contact'
 import Faq from '../Components/Faq'
 import Features from '../Components/Features'
+import Footer from '../Components/Footer'
 import InstentSetup from '../Components/instentSetup'
 import Integration from '../Components/Integration'
 import Landing from '../Components/Landing'
 import Navbar from '../Components/Navbar'
+import SecendFooter from '../Components/SecendFooter'
 import Testimonial from '../Components/Testimonial'
 import styles from '../styles/Home.module.css'
 
@@ -34,6 +36,8 @@ export default function Home() {
      <Testimonial/>
      <Contact/>
      <BluBanner/>
+     <Footer/>
+     <SecendFooter/>
     </main>
 
     
