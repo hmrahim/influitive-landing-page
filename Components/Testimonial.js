@@ -45,7 +45,6 @@ const Testimonial = () => {
           </div>
         </div>
         <div className="flex flex-col  gap-10">
-        
           <div className="flex  items-center gap-4">
             <div className="avatar">
               <div className="w-10 h-10 rounded">

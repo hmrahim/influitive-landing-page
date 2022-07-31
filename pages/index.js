@@ -1,7 +1,9 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import AffortlessProcess from '../Components/AffortlessProcess'
+import BluBanner from '../Components/BluBanner'
 import Business from '../Components/Business'
+import Contact from '../Components/Contact'
 import Faq from '../Components/Faq'
 import Features from '../Components/Features'
 import InstentSetup from '../Components/instentSetup'
@@ -30,6 +32,8 @@ export default function Home() {
      <AffortlessProcess/>
      <Faq/>
      <Testimonial/>
+     <Contact/>
+     <BluBanner/>
     </main>
 
     
