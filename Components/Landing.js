@@ -2,7 +2,7 @@ import React from "react";
 import Image from "next/image";
 const Landing = () => {
   return (
-    <div className="hero min-h-screen bg-base-200 w-full md:w-11/12 lg:w-11/12 mx-auto">
+    <div className="hero min-h-screen bg-base-200 w-full px-4 md:px-0 lg:px-0 md:w-5/6 lg:w-5/6 mx-auto">
       <div className="hero-content flex-col lg:flex-row-reverse">
         {/* <img src="https://placeimg.com/260/400/arch" className="max-w-sm rounded-lg shadow-2xl flex-1" /> */}
         <Image

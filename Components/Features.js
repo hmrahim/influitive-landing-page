@@ -3,7 +3,7 @@ import FeaturesCard from "./FeaturesCard";
 
 const Features = () => {
   return (
-    <div className="w-full md:w-11/12 lg:w-11/12 mx-auto mt-11">
+    <div className="w-full px-4 md:px-0 lg:px-0 md:w-5/6 lg:w-5/6 mx-auto mt-11">
       <div className="w-full md:w-3/6 lg:w-3/6 mx-auto">
         <h4 className="text-xl font-semibold text-primary text-center">
           Build Quality

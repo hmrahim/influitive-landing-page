@@ -5,7 +5,7 @@ const QustionCard = ({logo,title,desc}) => {
   return (
     <div className="flex flex-col ">
       <div className="flex items-center gap-5">
-        <Image src={logo} width={40} height={40}></Image>
+        <Image src={logo} width={30} height={30}></Image>
         <h1 className="text-xl font-semibold text-accent">
         {title}
         </h1>

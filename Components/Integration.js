@@ -4,7 +4,7 @@ import IntegrationCard from "./IntegrationCard";
 
 const Integration = () => {
   return (
-    <div className="flex flex-col md:flex-row lg:flex-row w-ful md:w-11/12 lg:w-11/12 mx-auto gap-24 mt-40 ">
+    <div className="flex flex-col md:flex-row lg:flex-row w-full px-4 md:px-0 lg:px-0 md:w-5/6 lg:w-5/6 mx-auto gap-24 mt-40 ">
       <div className="flex-1 flex flex-col gap-14 justify-center items-center">
         <h4 className="text-xl font-bold text-justify text-accent">
         We deliver best quality app for 
